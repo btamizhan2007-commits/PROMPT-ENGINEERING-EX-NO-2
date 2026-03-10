@@ -1,5 +1,7 @@
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
-
+## DATE:10.03.2026
+## REG NO:25018064
+## NAME: TAMIZHAN B
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
@@ -18,6 +20,9 @@ Speed
 
 User experience
 
-## OUTPUT
+## OUTPUT:
+
+[EX-02_.docx](https://github.com/user-attachments/files/25875851/EX-02_.docx)
 
 ## RESULT
+Thus,the experiment was completed successfully.
